@@ -1,0 +1,8 @@
+{
+  "name": "actions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/awayinlondon/actions.git",
+  "author": "awayinlondon@gmail.com <awayinlondon@gmail.com>",
+  "license": "MIT"
+}
