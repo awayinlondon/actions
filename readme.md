@@ -11,3 +11,6 @@ Ran *yarn init -yp* with default answers.
 
 ## Step 4. GitHub Actions: Publish Docker Container
 Go into Actions in the website and choose the Publish Docker Container (GitHub Packages) workflow.
+
+## Step 5. Create App
+Create `index.js` that prints "Hello world".
